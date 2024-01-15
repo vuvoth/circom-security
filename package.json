@@ -1,0 +1,10 @@
+{
+  "name": "circom-security",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vu Vo <vu.voth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "circom_tester": "^0.0.20"
+  }
+}
